@@ -1,0 +1,50 @@
+
+body
+{
+   background-image: url(letöltés.jpg);
+}
+
+h1
+{
+    color: white;
+    font-family: georgia;
+    font-size: 110px;
+    background-color: orange;
+    text-align: center;
+    /*width: 1000px;*/
+}
+
+h2
+{
+    color: #0000ff;
+    font-family: Georgia;
+    font-size: 24px;
+    background-color: aqua;
+    text-align: left;
+}
+
+h3
+{
+    color: white;
+    font-family: Georgia;
+    font-size: 24px;
+    background-color: aquamarine ;
+    text-align: left;
+}
+
+img
+{
+    height:400px;
+    width:2000px;
+}
+
+p
+{
+    color: white;
+    width: 800px;
+    text-align: justify;
+    background-color: gray;
+    font-family: 'Trebuchet MS';
+    margin-left: 100px;
+    padding: 20px;
+}
